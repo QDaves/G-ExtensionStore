@@ -2,13 +2,13 @@
   "title": "QX Scripter",
   "description": "C# scripting for G-Earth, with visual script panels and an MCP server for AI agents.",
   "authors": [{"name": "QDave"}],
-  "version": "0.0.16",
+  "version": "0.0.17",
   "categories": ["G-Earth Utilities", "Usability", "Others"],
   "source": "https://github.com/QDaves/QX-Scripter",
   "readme": "https://github.com/QDaves/QX-Scripter/blob/main/README.md",
   "releases": "https://github.com/QDaves/QX-Scripter/tags",
   "stable": true,
-  "framework": {"name": "QX", "version": "0.0.16"},
+  "framework": {"name": "QX", "version": "0.0.17"},
   "language": "C#",
   "commands": {
     "default": ["cmd", "/C", "QX.exe", "-c", "{cookie}", "-p", "{port}", "-f", "{filename}"],
@@ -21,6 +21,6 @@
     "clients": ["Flash"]
   },
   "submissionDate": "14-09-2026 21:00:00",
-  "updateDate": "21-09-2026 20:24:46",
+  "updateDate": "21-09-2026 20:52:16",
   "isOutdated": false
 }
